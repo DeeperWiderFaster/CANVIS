@@ -1,12 +1,12 @@
-## CANdidate VISualisation using CANVIS.py 
+# CANdidate VISualisation using CANVIS.py 
 Created by Sara Webb, any questions email swebb@swin.edu.au 
 
-# Set Parametres 
+## Set Parametres 
 
 Set the following parameters for CANVIS: 
 
 
-run = monthyear eg 'june18'
+**run** = monthyear eg 'june18'
 
 
 rundate = date of run eg 18060* or 180609 or 1806* 
