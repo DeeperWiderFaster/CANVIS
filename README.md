@@ -1,5 +1,5 @@
 ## CANdidate VISualisation using CANVIS.py 
-
+Created by Sara Webb, any questions email swebb@swin.edu.au 
 
 # Set Parametres 
 
